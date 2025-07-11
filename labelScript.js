@@ -1,9 +1,9 @@
 const products = [
-  { id: "Laptop Pro 15", name: "Laptop Pro 15" },
+  { id: "Laptop Pro 15", name: "Laptop Pro" },
   { id: "Smartphone X", name: "Smartphone X" },
   { id: "Wireless Headphones", name: "Wireless Headphones" },
-  { id: "Smart Watch Series 5", name: "Smart Watch Series 5" },
-  { id: "Smart Watch Series 5", name: "Smart Watch Series 5" },
+  { id: "Smart Watch Series 5", name: "Smart Watch1" },
+  { id: "Smart Watch Series 5", name: "Smart Watch2" },
   { id: "Bluetooth Speaker", name: "Bluetooth Speaker" },
 ];
 
